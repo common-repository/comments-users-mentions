@@ -1,0 +1,48 @@
+# Copyright (C) 2014 Comments Users Mentions
+# This file is distributed under the same license as the Comments Users Mentions package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Comments Users Mentions 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/comments-users-mentions\n"
+"POT-Creation-Date: 2014-02-18 15:12:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-02-18 17:32+0100\n"
+"Last-Translator: Augusto Destrero <info@guguweb.com>\n"
+"Language-Team: Guguweb <info@guguweb.com>\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+
+#: comments-users-mentions.php:51
+msgid "%s mentioned you in a comment to the article \"%s\""
+msgstr "%s ti ha menzionato in un commento all'articolo \"%s\""
+
+#: comments-users-mentions.php:54
+msgid "Read post"
+msgstr "Leggi il post"
+
+#: comments-users-mentions.php:54
+msgid "on"
+msgstr "su"
+
+#. Plugin Name of the plugin/theme
+msgid "Comments Users Mentions"
+msgstr "Comments Users Mentions"
+
+#. Plugin URI of the plugin/theme
+msgid "http://bitbucket.org/baxeico/wp-cum"
+msgstr "http://bitbucket.org/baxeico/wp-cum"
+
+#. Description of the plugin/theme
+msgid "\"Comments Users Mentions\" is a plugin that allows to mention a Wordpress user in a comment by writing his username between @ characters (e.g. @guguweb@)."
+msgstr "\"Comments Users Mentions\" è un plugin che permette di citare un utente Wordpress in un commento scrivendo il suo username fra due caratteri @ (e.g. @guguweb@)."
+
+#. Author of the plugin/theme
+msgid "Augusto Destrero"
+msgstr "Augusto Destrero"
+
+#. Author URI of the plugin/theme
+msgid "http://www.guguweb.com"
+msgstr "http://www.guguweb.com"
+
